@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://steompec.github.io/sitemap.html.gz
+Sitemap: https://steompec.github.io/app/sitemap.html.gz
+Sitemap: https://steompec.github.io/assets/sitemap.html.gz
+Sitemap: https://steompec.github.io/css/sitemap.html.gz
+Sitemap: https://steompec.github.io/includes/sitemap.html.gz
+Sitemap: https://steompec.github.io/item/sitemap.html.gz
+Sitemap: https://steompec.github.io/src/sitemap.html.gz
